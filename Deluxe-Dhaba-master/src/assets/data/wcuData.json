@@ -1,0 +1,20 @@
+{
+    "wcuData": [
+        {
+            "title": "Authentic Flavors",
+            "description": "Our dishes are crafted using traditional recipes and authentic ingredients, ensuring every bite is a true taste of India."
+        },
+        {
+            "title": "Experienced Chefs",
+            "description": "Our team of experienced chefs brings years of expertise to the kitchen, guaranteeing impeccable quality and consistency in every dish."
+        },
+        {
+            "title": "Warm Hospitality",
+            "description": "At Deluxe Dhaba, we pride ourselves on providing warm and welcoming hospitality, creating a comfortable and enjoyable dining environment for our guests."
+        },
+        {
+            "title": "Customizable Menus",
+            "description": "Whether you have dietary preferences or specific event requirements, our customizable menus cater to your needs, ensuring a memorable dining experience tailored just for you."
+        }
+    ]
+}

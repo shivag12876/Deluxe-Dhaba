@@ -1,0 +1,88 @@
+{
+    "menuItems": [
+        {
+            "id": 1,
+            "title": "Tandoori Chicken",
+            "description": "Tender chicken marinated in yogurt and spices, cooked to perfection in a traditional clay oven.",
+            "image": "/food/tandoori_chicken.webp",
+            "price": 35
+        },
+        {
+            "id": 2,
+            "title": "Paneer Tikka",
+            "description": "Chunks of paneer (Indian cottage cheese) marinated in spices and grilled to perfection.",
+            "image": "/food/paneer_tikka.jpeg",
+            "price": 30
+        },
+        {
+            "id": 3,
+            "title": "Butter Chicken",
+            "description": "Tender chicken simmered in a rich and creamy tomato-based gravy, flavored with butter and aromatic spices.",
+            "image": "/food/butter_chicken.jpeg",
+            "price": 40
+        },
+        {
+            "id": 4,
+            "title": "Vegetable Biryani",
+            "description": "Fragrant basmati rice cooked with mixed vegetables, herbs, and spices, served with raita.",
+            "image": "/food/veg_biryani.webp",
+            "price": 25
+        },
+        {
+            "id": 5,
+            "title": "Masala Dosa",
+            "description": "A South Indian specialty, crispy crepe filled with a spiced potato filling, served with coconut chutney and sambar.",
+            "image": "/food/masala_dosa.jpg",
+            "price": 20
+        },
+        {
+            "id": 6,
+            "title": "Gulab Jamun",
+            "description": "Soft and spongy milk solids dumplings soaked in a fragrant sugar syrup, served warm.",
+            "image": "/food/gulab_jamun.jpeg",
+            "price": 10
+        },
+        {
+            "id": 7,
+            "title": "Chole Bhature",
+            "description": "Spiced chickpeas served with deep-fried bread, a popular North Indian delicacy.",
+            "image": "/food/chole_bhature.jpeg",
+            "price": 20
+        },
+        {
+            "id": 8,
+            "title": "Pani Puri",
+            "description": "Crispy hollow puris filled with a spicy and tangy water, a beloved Indian street food.",
+            "image": "/food/pani_puri.webp",
+            "price": 15
+        },
+        {
+            "id": 9,
+            "title": "Mutton Biryani",
+            "description": "Aromatic basmati rice cooked with tender mutton pieces and flavorful spices.",
+            "image": "/food/mutton_biryani.jpg",
+            "price": 35
+        },
+        {
+            "id": 10,
+            "title": "Aloo Paratha",
+            "description": "Whole wheat bread stuffed with spiced mashed potatoes, served with yogurt and pickle.",
+            "image": "/food/aloo_paratha.jpg",
+            "price": 10
+        },
+        {
+            "id": 11,
+            "title": "Chicken 65",
+            "description": "Spicy and tangy deep-fried chicken bites, a popular appetizer from South India.",
+            "image": "/food/chicken_65.jpg",
+            "price": 30
+        },
+        {
+            "id": 12,
+            "title": "Rasgulla",
+            "description": "Soft and spongy cottage cheese balls soaked in sugar syrup, a classic Indian dessert.",
+            "image": "/food/rasgulla.jpeg",
+            "price": 12
+        }
+    ]
+}

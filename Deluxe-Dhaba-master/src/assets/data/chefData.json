@@ -1,0 +1,34 @@
+{
+    "chefs": [
+        {
+            "name": "Chef Rahul Sharma",
+            "specialty": "North Indian Cuisine",
+            "bio": "With over 15 years of experience, Chef Rahul specializes in crafting authentic dishes from the rich culinary traditions of North India. His expertise lies in creating flavorful curries, succulent tandoori delights, and aromatic biryanis."
+        },
+        {
+            "name": "Chef Priya Patel",
+            "specialty": "South Indian Cuisine",
+            "bio": "Hailing from the southern region of India, Chef Priya brings the vibrant flavors of South Indian cuisine to the table. Her specialties include crispy dosas, spicy sambar, and a variety of coconut-based curries."
+        },
+        {
+            "name": "Chef Rajesh Singh",
+            "specialty": "Mughlai Cuisine",
+            "bio": "Chef Rajesh is a master of Mughlai cuisine, known for its rich and indulgent flavors. With a focus on royal delicacies like buttery kebabs, creamy kormas, and fragrant biryanis, he brings a taste of royalty to every dish."
+        },
+        {
+            "name": "Chef Meera Das",
+            "specialty": "Vegetarian Cuisine",
+            "bio": "Passionate about vegetarian cooking, Chef Meera creates innovative and delectable dishes that celebrate the diverse flavors of vegetables and spices. From hearty lentil curries to crispy pakoras, her creations are a feast for both the eyes and the palate."
+        },
+        {
+            "name": "Chef Sanjay Kapoor",
+            "specialty": "Street Food",
+            "bio": "With a keen understanding of street food culture, Chef Sanjay brings the vibrant and eclectic flavors of Indian street food to the forefront. From spicy chaats to indulgent pav bhaji, his creations capture the essence of the bustling streets of India."
+        },
+        {
+            "name": "Chef Ayesha Khan",
+            "specialty": "Desserts",
+            "bio": "Dessert aficionado Chef Ayesha specializes in crafting irresistible sweet treats that leave a lasting impression. From classic favorites like gulab jamun to innovative creations like saffron-infused kheer, her desserts are the perfect ending to any meal."
+        }
+    ]
+}
